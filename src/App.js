@@ -14,7 +14,7 @@ class App extends Component {
 		<div id="colorlib-main">
 			<Introduction></Introduction>
 			<About></About>
-      <footer><div className="bloodyhell" style={{backgroundImage: 'url(images/bloodyhell.jpeg)'}} /></footer>
+      <div className="bloodyhell" style={{backgroundImage: 'url(images/bloodyhell.jpeg)'}} />
           	</div>
       	</div>
       </div>
