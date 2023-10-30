@@ -11,9 +11,9 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin hendrerit imperdiet. Cras tempor malesuada arcu at consequat. Curabitur convallis pharetra malesuada. Phasellus mollis quam risus, in bibendum nunc fermentum sit amet. Aenean fringilla elit id lorem facilisis auctor. Morbi aliquet porttitor neque, id lobortis ex imperdiet at. Nullam sagittis at tortor non malesuada.</p>
+                    <p>Hi, I am Amaar Valliani. I'm a senior at UC San Diego studying Mathematics-Computer Science.</p>
                     </div>
                 </div>
                 </div>
@@ -25,8 +25,8 @@ export default class About extends Component {
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                <span className="heading-meta">What do I do?</span>
+                <h2 className="colorlib-heading">Here are some things I enjoy:</h2>
             </div>
             </div>
             <div className="row row-pt-md">
@@ -36,8 +36,8 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <h3>Morbi sed volutpat purus </h3>
+                    <p>Quisque porta lorem id scelerisque laoreet. Curabitur ultricies auctor massa. Morbi sed volutpat purus. </p>
                 </div>
                 </div>
             </div>
@@ -47,8 +47,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <h3>Morbi sed volutpat purus</h3>
+                    <p>Quisque porta lorem id scelerisque laoreet. Curabitur ultricies auctor massa. Morbi sed volutpat purus. </p>
                 </div>
                 </div>
             </div>
@@ -58,7 +58,7 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
+                    <h3>Morbi sed volutpat purus</h3>
                     <p>Quisque porta lorem id scelerisque laoreet. Curabitur ultricies auctor massa. Morbi sed volutpat purus. </p>
                 </div>
             </div>
