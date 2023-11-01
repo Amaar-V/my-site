@@ -15,7 +15,7 @@ export default class Projects extends Component {
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 								<a href="https://github.com/Amaar-V/CS-Term-Dictionary">
-								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/img-1.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3>CS Term Dictionary</h3>
@@ -32,7 +32,7 @@ export default class Projects extends Component {
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
 							<a href="https://github.com/Amaar-V/Reddit_Bot">
-								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/img-2.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3>Reddit Bot</h3>
@@ -49,7 +49,7 @@ export default class Projects extends Component {
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
 							<a href="https://github.com/Amaar-V/my-site">
-								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/img-3.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3>Personal Website</h3>
@@ -67,7 +67,7 @@ export default class Projects extends Component {
 							
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
 							<a href="https://github.com/Amaar-V/FamilyTree">
-								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/img-4.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3>Family Tree</h3>
@@ -84,7 +84,7 @@ export default class Projects extends Component {
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
 							<a href="https://github.com/Amaar-V/Lab6_Starter">
-								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/img-5.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3>CSE 110 Lab 6</h3>
@@ -101,7 +101,7 @@ export default class Projects extends Component {
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 							<a href="https://github.com/Amaar-V/fa22-cse110-lab3">
-								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/img-6.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3>CSE 110 Lab 3</h3>
