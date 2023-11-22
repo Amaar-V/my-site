@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+import style from '../App.css';
+
 
 export default class Introduction extends Component {
   render() {
@@ -6,8 +8,8 @@ export default class Introduction extends Component {
       <div>
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
-            <ul className="slides">
-              <li style={{backgroundImage: 'url(images/img-bg3.jpg)'}}>
+            <ul className="slides">   
+              <li style={style.image1}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">

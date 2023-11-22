@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <div id="colorlib-page">
         <div id="container-wrap">
-		<Sidebar></Sidebar>
+		<Sidebar></Sidebar> 
 		<div id="colorlib-main">
 			<Introduction></Introduction>
 			<About></About>
