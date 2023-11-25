@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
 import Sidebar from './components/sidebar'
-import Main from './components/home'
+import { Routes, Route } from 'react-router-dom';
+import Home from './components/home';
+import Blog from './components/blog';
 
 class App extends Component {
   render() {
@@ -9,7 +11,10 @@ class App extends Component {
       <div id="colorlib-page">
         <div id="container-wrap">
           <Sidebar></Sidebar> 
-          <Main></Main>
+          <Routes>
+            <Route path='/' element={Home}></Route>
+            <Route path='/blog' element={Blog}></Route>
+          </Routes>
       	</div>
       </div>
     );
