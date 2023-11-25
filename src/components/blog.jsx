@@ -4,7 +4,7 @@ export default class Blog extends Component {
   render() {
     return (
       <div>
-		<h1>Is it working yet?</h1>
+		    <h3>Is it working yet?</h3>
       </div>
     )
   }

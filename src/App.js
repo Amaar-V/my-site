@@ -12,8 +12,8 @@ class App extends Component {
         <div id="container-wrap">
           <Sidebar></Sidebar> 
           <Routes>
-            <Route path='/' element={Home}></Route>
-            <Route path='/blog' element={Blog}></Route>
+            <Route path='/my-site' element={<Home/>}></Route>
+            <Route path='/my-site/blog' element={<Blog/>}></Route>
           </Routes>
       	</div>
       </div>

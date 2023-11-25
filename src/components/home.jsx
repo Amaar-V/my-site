@@ -13,11 +13,11 @@ class Home extends Component {
       <Projects></Projects>
       <BlogIndex></BlogIndex>
       <div>
-                <p>.</p>
-                <p>.</p>
-                <p>.</p>
-                <p>.</p>
-                <p>.</p>
+        <p>.</p>
+        <p>.</p>
+        <p>.</p>
+        <p>.</p>
+        <p>.</p>
       </div>
     </div>
     );
