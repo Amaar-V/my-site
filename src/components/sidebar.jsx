@@ -13,7 +13,7 @@ export default class Sidebar extends Component {
               <span className="email"><i className="icon-mail"></i> amaarvalliani@gmail.com</span>
               <span className="email"><i className="icon-mail"></i> avallian@ucsd.edu</span>
               <br></br>
-              <p style={{color: 'pink'}}>Please refresh (CMD + R or WINDOWS + R) page if blank. Still sorting out some technical problems!</p>
+              <p style={{color: 'blue'}}>Please refresh (CMD + R or WINDOWS + R) page if blank. Still sorting out some technical problems!</p>
             </div>
             <br></br>
             <nav id="colorlib-main-menu" role="navigation">
