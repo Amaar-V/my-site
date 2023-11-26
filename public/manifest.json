@@ -2,7 +2,7 @@
 	"name": "my-site",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://amaar-v.github.io/my-site/",
+	"homepage": "./",
 	"dependencies": {
 		"gh-pages": "^2.0.1",
 		"react": "^16.8.3",
