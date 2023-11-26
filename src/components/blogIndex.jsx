@@ -20,7 +20,7 @@ export default class BlogIndex extends Component {
 							<a href="" className="blog-img"><img src="images/blog-1.jpg" className="img-responsive" alt="my steam library" /></a>
 							<div className="desc">
 								<span><small>November 21, 2023</small> | <small> Video Games </small> </span>
-								<h3><a href="blog.html"> a</a></h3>
+								<h3><a href="blog.html"> My Top Games by Hours Played</a></h3>
 								<p></p>
 							</div>
 						</Link>
@@ -32,7 +32,7 @@ export default class BlogIndex extends Component {
 							<a href="" className="blog-img"><img src="images/blog-2.jpg" className="img-responsive" alt="my spotify wrapped" /></a>
 							<div className="desc">
 								<span><small>November 21, 2023 </small> | <small> Music </small> </span>
-								<h3><a href="blog.html"> a</a> </h3>
+								<h3><a href="blog.html"> A Journey into my Music Tastes by Spotify Playlists</a> </h3>
 								<p> </p>
 							</div>
 						</Link>
@@ -44,7 +44,7 @@ export default class BlogIndex extends Component {
 							<a href="" className="blog-img"><img src="images/blog-4.jpg" className="img-responsive" alt="collage of food pics" /></a>
 							<div className="desc">
 								<span><small>November 21, 2023 </small> | <small> Food </small> </span>
-								<h3><a href="blog.html"> a</a></h3>
+								<h3><a href="blog.html"> My Top 3 From each Continent</a></h3>
 								<p> </p>
 							</div>
 						</Link>

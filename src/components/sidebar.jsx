@@ -9,9 +9,11 @@ export default class Sidebar extends Component {
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/profile.jpg)'}} />
-              <h1 id="colorlib-logo"><a href="index.html">Amaar Valliani</a></h1>
+              <h1 id="colorlib-logo"><a href="./#/my-site">Amaar Valliani</a></h1>
               <span className="email"><i className="icon-mail"></i> amaarvalliani@gmail.com</span>
               <span className="email"><i className="icon-mail"></i> avallian@ucsd.edu</span>
+              <br></br>
+              <p style={{color: 'pink'}}>Please refresh (CMD + R or WINDOWS + R) page if blank. Still sorting out some technical problems!</p>
             </div>
             <br></br>
             <nav id="colorlib-main-menu" role="navigation">
