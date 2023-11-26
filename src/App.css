@@ -40,3 +40,7 @@
 .image1 {
   background: linear-gradient(to left, rgb(57, 175, 141) 10%,rgba(255,255,255,0) 90%);
 }
+
+.hide {
+  display: none;
+}
