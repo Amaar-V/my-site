@@ -24,15 +24,14 @@ export default class Sidebar extends Component {
               </ul>
             </div>
             </nav>*/}
-            <br></br>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
               {this.props.location.pathname.includes('/blog') ? (
                 <ul>
                   <li className="active"><a href="#top" data-nav-section="top">Home</a></li>
-                  <li><a href="#post1" data-nav-section="post1"> Title 1</a></li>
-                  <li><a href="#post2" data-nav-section="post2"> Title 2</a></li>
-                  <li><a href='#post3' data-nav-section='post3'> Title 3</a></li>
+                  <li><a href="#post1" data-nav-section="post1"> My Various Top Games</a></li>
+                  <li><a href="#post2" data-nav-section="post2"> A Journey into my Music Tastes</a></li>
+                  <li><a href='#post3' data-nav-section='post3'> My Recipe for Chicken Katsu</a></li>
                 </ul>
               ) : (
                 <ul>

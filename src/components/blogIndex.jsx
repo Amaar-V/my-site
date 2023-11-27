@@ -17,7 +17,7 @@ export default class BlogIndex extends Component {
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
 						<Link to="/my-site/blog">
-							<a href="" className="blog-img"><img src="images/blog-1.jpg" className="img-responsive" alt="my steam library" /></a>
+							<a href="" className="blog-img"><img src="images/blogvideogames.png" className="img-responsive" alt="my steam library" /></a>
 							<div className="desc">
 								<span><small>November 21, 2023</small> | <small> Video Games </small> </span>
 								<h3><a href="blog.html"> My Various Top Games</a></h3>
@@ -30,7 +30,7 @@ export default class BlogIndex extends Component {
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInRight">
 					<div className="blog-entry">
 						<Link to="/my-site/blog">
-							<a href="" className="blog-img"><img src="images/blog-2.jpg" className="img-responsive" alt="my spotify wrapped" /></a>
+							<a href="" className="blog-img"><img src="images/blogmusic.png" className="img-responsive" alt="my spotify wrapped" /></a>
 							<div className="desc">
 								<span><small>November 21, 2023 </small> | <small> Music </small> </span>
 								<h3><a href="blog.html"> A Journey into my Music Tastes by Spotify Playlists</a> </h3>
