@@ -20,8 +20,9 @@ export default class BlogIndex extends Component {
 							<a href="" className="blog-img"><img src="images/blog-1.jpg" className="img-responsive" alt="my steam library" /></a>
 							<div className="desc">
 								<span><small>November 21, 2023</small> | <small> Video Games </small> </span>
-								<h3><a href="blog.html"> My Top Games by Hours Played</a></h3>
-								<p></p>
+								<h3><a href="blog.html"> My Various Top Games</a></h3>
+								<p>This is a pastime that I use to relax, connect with friends, and simulate my mood so there are many 
+                       games I cherish yet...</p>
 							</div>
 						</Link>
 					</div>
@@ -33,7 +34,8 @@ export default class BlogIndex extends Component {
 							<div className="desc">
 								<span><small>November 21, 2023 </small> | <small> Music </small> </span>
 								<h3><a href="blog.html"> A Journey into my Music Tastes by Spotify Playlists</a> </h3>
-								<p> </p>
+								<p>My top playlists on Spotify include general genres like Pop, EDM, Rock, Hip-Hop, and Classical. 
+                      I wanted to take a closer... </p>
 							</div>
 						</Link>
 					</div>
@@ -41,11 +43,12 @@ export default class BlogIndex extends Component {
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
 						<Link to="/my-site/blog">
-							<a href="" className="blog-img"><img src="images/blog-4.jpg" className="img-responsive" alt="collage of food pics" /></a>
+							<a href="" className="blog-img"><img src="images/blogkatsu.jpeg" className="img-responsive" alt="my chicken katsu" /></a>
 							<div className="desc">
 								<span><small>November 21, 2023 </small> | <small> Food </small> </span>
-								<h3><a href="blog.html"> My Top 3 From each Continent</a></h3>
-								<p> </p>
+								<h3><a href="blog.html"> My Recipe for Chicken Katsu</a></h3>
+								<p>This recipe is pretty basic but Chicken Katsu is my favorite dish and I wanted to document how I make it.
+                       You will need chicken breast, egg... </p>
 							</div>
 						</Link>
 					</div>

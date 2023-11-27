@@ -16,14 +16,14 @@ export default class Sidebar extends Component {
               <p style={{color: 'blue'}}>Please refresh (CMD + R or WINDOWS + R) page if blank. Still sorting out some technical problems!</p>
             </div>
             <br></br>
-            <nav id="colorlib-main-menu" role="navigation">
+            {/*<nav id="colorlib-main-menu" role="navigation">
             <div id="navbar" className="collapse">
             <ul>
                 <li><Link to="/my-site">Home Page</Link></li>
                 <li><Link to="/my-site/blog">Blog Page</Link></li>
               </ul>
             </div>
-            </nav>
+            </nav>*/}
             <br></br>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">

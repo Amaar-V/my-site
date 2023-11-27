@@ -16,8 +16,23 @@ export default class Blog extends Component {
                 <div className="col-md-12">
                     <div className="about-desc">
                     <span className='heading-meta'><small>November 21, 2023</small> | <small> Video Games </small> </span>
-                    <h2 className="colorlib-heading"> My Top Games by Hours Played</h2>
-                    <p> .
+                    <h2 className="colorlib-heading"> My Various Top Games</h2>
+                    <p> Ranking anything is a difficult task but it is even more so when it comes to video games.
+                       This is a pastime that I use to relax, connect with friends, and simulate my mood so there are many 
+                       games I cherish yet I have to rank them. If I used statistics to rank my top games instead of using 
+                       my preferences then "Tom Clancy's Rainbow Six Siege (R6)" would win by a mile as I have invested over 
+                       2000 hours in the game over 4 years! Then coming in second would be "Counter-Strike Global Offensive 
+                       (CSGO)" which has taken around 1100 hours of my time (not including watching its esports matches) and 
+                       third would be "Apex Legends" with only around 380 hours. However, I must admit that this is not the 
+                       best method for ranking because, after many hours of my top-played games, I have become tired of them 
+                       and have feelings of being burnt out. Instead, if I were to think about the games that have brought me 
+                       the most joy, I would put CSGO first as I find it more relaxing and enjoyable than R6. But these rankings 
+                       still fail to mention the numerous single-player games that I have played so I would say another way to 
+                       rank my top games would be to consider which had the most memorable experience or story. Admittedly this 
+                       is not for multiplayer games like all the ones mentioned so far. Now, I would put "Detroit: Become Human" 
+                       first due to this unique storytelling and innovative plot. The second would be "Outer Wilds" for its 
+                       original gameplay mechanics and how the game drives a sense of adventure and bravery in a player. 
+                       "God of War" would take third because of its classic, yet well-crafted gameplay and level design.
                         </p>
                     </div>
                 </div>
@@ -46,7 +61,7 @@ export default class Blog extends Component {
                       and popular EDM but some shades of trance and drum'n'bass do pop up too. "EDM2_", on the other hand, is more indie songs 
                       with fewer vocals and more emphasis on the actual sound. "Classical." is just classical music and "(instrumental)" is 
                       non-classical, vocal-less songs, many from movies or video games (also DJ Okawari). "NEW PLAY" consists of hip-hop like 
-                      Kendrick, Cole, Gambino, and Em. The second way I organize music is by connecting it to a mood, time, or activity. 
+                      Kendrick, Cole, and Gambino. The second way I organize music is by connecting it to a mood, time, or activity. 
                       Here are my remaining playlists and some context if needed: "sentiRead" (when reading slow/heavy text), "sunset~", 
                       "~moment" (for climax moments, mainly for reading),  "calm~", "Joy^", "🌧️" (for when it's raining), "[READ]", "bedtime", 
                       "WAKE:", "apex" (when playing video games, mainly Apex Legends), "SPEED." (high-intensity music), "Seasonal" (for Christmas).
