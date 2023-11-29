@@ -12,18 +12,17 @@ export default class Sidebar extends Component {
               <h1 id="colorlib-logo"><a href="./#/my-site">Amaar Valliani</a></h1>
               <span className="email"><i className="icon-mail"></i> amaarvalliani@gmail.com</span>
               <span className="email"><i className="icon-mail"></i> avallian@ucsd.edu</span>
-              <br></br>
-              <p style={{color: 'blue'}}>Please refresh (CMD + R or WINDOWS + R) page if blank. Still sorting out some technical problems!</p>
             </div>
             <br></br>
-            {/*<nav id="colorlib-main-menu" role="navigation">
+            <nav id="colorlib-main-menu" role="navigation">
             <div id="navbar" className="collapse">
             <ul>
                 <li><Link to="/my-site">Home Page</Link></li>
                 <li><Link to="/my-site/blog">Blog Page</Link></li>
-              </ul>
+            </ul>
             </div>
-            </nav>*/}
+            </nav>
+            <br></br>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
               {this.props.location.pathname.includes('/blog') ? (
