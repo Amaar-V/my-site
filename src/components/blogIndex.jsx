@@ -16,7 +16,7 @@ export default class BlogIndex extends Component {
 				<div className="row">
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<Link to="/my-site/blog" className="blog-img">
+						<Link to="/blog" className="blog-img">
 							<img src="images/blogvideogames.png" className="img-responsive" alt="my steam library" />
 							<div className="desc">
 								<span><small>November 21, 2023</small> | <small> Video Games </small> </span>
@@ -29,7 +29,7 @@ export default class BlogIndex extends Component {
 					</div>
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInRight">
 					<div className="blog-entry">
-						<Link to="/my-site/blog" className="blog-img">
+						<Link to="/blog" className="blog-img">
 							<img src="images/blogmusic.png" className="img-responsive" alt="my spotify wrapped" />
 							<div className="desc">
 								<span><small>November 21, 2023 </small> | <small> Music </small> </span>
@@ -42,7 +42,7 @@ export default class BlogIndex extends Component {
 					</div>
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<Link to="/my-site/blog" className="blog-img">
+						<Link to="/blog" className="blog-img">
 							<img src="images/blogkatsu.jpeg" className="img-responsive" alt="my chicken katsu" />
 							<div className="desc">
 								<span><small>November 21, 2023 </small> | <small> Food </small> </span>
