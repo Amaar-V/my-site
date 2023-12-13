@@ -17,8 +17,8 @@ export default class Sidebar extends Component {
             <nav id="colorlib-main-menu" role="navigation">
             <div id="navbar" className="collapse">
             <ul>
-                <li><Link to="/my-site">Home Page</Link></li>
-                <li><Link to="/my-site/blog">Blog Page</Link></li>
+                <li><Link to="/">Home Page</Link></li>
+                <li><Link to="/blog">Blog Page</Link></li>
             </ul>
             </div>
             </nav>
